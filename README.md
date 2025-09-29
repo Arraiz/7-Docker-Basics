@@ -32,11 +32,12 @@
 2. Crea una rama y carpeta con tu nombre.apellido.
    - Ejemplo: `sergio.garcia`
 3. Desarrolla en esa rama y bajo tu carpeta todos los ejercicios, teniendo cada ejercicio una carpeta propia ej:
+```
 /7-dokcer-basics/
   ├── sergio.garcia
         ├──ejercicio1
             ├── contenido_del_ejercicio
- 
+```
 
 4. Cuando termines un ejercicio commitea y pushea, para solicitar revision es necesario abrir pull request
 ---
