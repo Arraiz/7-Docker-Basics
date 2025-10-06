@@ -507,7 +507,7 @@ docker images ejercicio9-multistage
 
 ```
 /ejercicioX/
-  ├── docker-compose.yml
+  ├── docker compose.yml
   ├── Dockerfile
   ├── app.py
   └── requirements.txt
@@ -554,7 +554,7 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
 ```
 
-### docker-compose.yml:
+### docker compose.yml:
 
 ```yaml
 version: '3.8'
@@ -574,19 +574,19 @@ services:
 ### Comando para levantar los servicios:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ### Comando para ver los logs:
 
 ```bash
-docker-compose logs -f
+docker compose logs -f
 ```
 
 ### Comando para detener los servicios:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 Accede desde tu navegador a `http://localhost:8080`
