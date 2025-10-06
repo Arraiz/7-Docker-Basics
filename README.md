@@ -1,3 +1,5 @@
+## IMPORTANTE LA FECHA TOPE: 17/10/2025
+
 # Ejercicios Docker con Python
 
 ## Índice de contenidos
@@ -702,4 +704,4 @@ docker run ejercicio12-entrypoint
 docker run ejercicio12-entrypoint "Juan"
 ```
 
-<span style="color: red;">FECHA TOPE DE ENTREGA SERA EL DIA 17 DE OCTUBRE, despues de esa fecha el repo sera solo lectura </span>
+
